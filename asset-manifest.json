@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b95fef3e.css",
+    "main.js": "/static/js/main.0b85d44d.js",
+    "static/js/787.548e446f.chunk.js": "/static/js/787.548e446f.chunk.js",
+    "static/media/git.png": "/static/media/git.39e0e96e45b6ba49ccd7.png",
+    "static/media/transparent_heart.png": "/static/media/transparent_heart.d2e28a64d08aecbbbc91.png",
+    "static/media/email.png": "/static/media/email.73de4e6418ee6562e298.png",
+    "static/media/linkedin.png": "/static/media/linkedin.306eb24f856f43813a2c.png",
+    "static/media/intellikare.png": "/static/media/intellikare.1e35e610f3b61007a7e7.png",
+    "static/media/imagecolorization.jpeg": "/static/media/imagecolorization.e36740bad3c337532574.jpeg",
+    "static/media/abel-latin-400-normal.ttf": "/static/media/abel-latin-400-normal.3adc76c45982a8b9bf69.ttf",
+    "static/media/dugas-pro-ultra.woff": "/static/media/dugas-pro-ultra.fb6a5c37ae236b93ff95.woff",
+    "index.html": "/index.html",
+    "main.b95fef3e.css.map": "/static/css/main.b95fef3e.css.map",
+    "main.0b85d44d.js.map": "/static/js/main.0b85d44d.js.map",
+    "787.548e446f.chunk.js.map": "/static/js/787.548e446f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95fef3e.css",
+    "static/js/main.0b85d44d.js"
+  ]
+}
